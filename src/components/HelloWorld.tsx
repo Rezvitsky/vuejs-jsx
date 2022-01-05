@@ -24,7 +24,7 @@ const HelloWorld = defineComponent({
         }
 
         return () => (
-            <div>
+            <>
                 <h1>{ props.msg }</h1>
                 <p>
                     Recommended IDE setup:
@@ -48,7 +48,7 @@ const HelloWorld = defineComponent({
                     Edit
                     <code style={styles.code}>components/HelloWorld.tsx</code> to test hot module replacement.
                 </p>
-            </div>
+            </>
         )
     }
 })
