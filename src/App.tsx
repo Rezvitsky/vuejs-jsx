@@ -18,7 +18,7 @@ const App = defineComponent({
         return () => (
             <div style={ styles.app }>
                 <img alt="Vue logo" src={ logo } />
-                <HelloWorld msg={ "Hello Vue 3 + TypeScript + Vite" } />
+                <HelloWorld msg={ "Hello Vue 3 + JSX + TypeScript + Vite" } />
             </div>
         )
     }

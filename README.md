@@ -1,1 +1,1 @@
-# Vue 3 + Typescript + Vite + JSX
+# Vue 3 + JSX + Typescript + Vite
